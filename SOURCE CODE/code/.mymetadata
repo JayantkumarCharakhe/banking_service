@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Design And Implementation Of End-To-End Online Banking Services"
+  id="myeclipse.1464089389106"
+  context-root="/onlinemoney"
+  j2ee-spec="5.0"
+  archive="Design And Implementation Of End-To-End Online Banking Services.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
